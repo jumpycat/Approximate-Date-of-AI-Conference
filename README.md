@@ -36,7 +36,7 @@
 # CCF A
 | 期刊简称 | SCI分区  | IF  |一审周期   | 收录周期 |年发文量 | 接受率 |全称 |
 | ----- |----- | --------- |--------- | ----------- |----------- | ------- | ------- |
-|    TIFS   |  1(1)   |7.178   |           |             |              |        | IEEE Transactions on Information Forensics and Security      |
+|    TIFS   |  1(1)   |7.178   |  ~3月       |             |    287          |        | IEEE Transactions on Information Forensics and Security      |
 |    TIP   |  1(1)    | 10.856   |           |             |              |        |     IEEE Transactions on Image Processing  |
 |    TPAMI   |  1(1)    | 16.389    |           |             |              |        |  IEEE Trans on Pattern Analysis and Machine Intelligence      |
 |    TDSC   |   2(1)    | 7.329   |           |             |              |        |     IEEE Transactions on Dependable and Secure Computing  |
