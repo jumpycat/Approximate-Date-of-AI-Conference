@@ -37,10 +37,10 @@
 | 期刊简称 | SCI分区  | IF  |一审周期   | 收录周期 |年发文量 | 接受率 |全称 |
 | ----- |----- | --------- |--------- | ----------- |----------- | ------- | ------- |
 |    TIFS   |  1(1)   |7.178   |           |             |              |        | IEEE Transactions on Information Forensics and Security      |
-|    TDSC   |   2(1)    | 7.329   |           |             |              |        |     IEEE Transactions on Dependable and Secure Computing  |
-|    TKDE   |   2(2)   | 6.977   |           |             |              |        | IEEE Transactions on Knowledge and Data Engineering      |
 |    TIP   |  1(1)    | 10.856   |           |             |              |        |     IEEE Transactions on Image Processing  |
 |    TPAMI   |  1(1)    | 16.389    |           |             |              |        |  IEEE Trans on Pattern Analysis and Machine Intelligence      |
+|    TDSC   |   2(1)    | 7.329   |           |             |              |        |     IEEE Transactions on Dependable and Secure Computing  |
+|    TKDE   |   2(2)   | 6.977   |           |             |              |        | IEEE Transactions on Knowledge and Data Engineering      |
 |    IJCV   |  2(2)   |7.410   |           |             |              |        |   International Journal of Computer Vision    |
 
 
@@ -48,8 +48,8 @@
 | 期刊简称 | SCI分区  | IF   |一审周期   | 收录周期 |年发文量 | 接受率 |全称 |
 | ----- |----- | --------- |--------- | ----------- |----------- | ------- | ------- |
 |    TNNLS   |   1(1)     | 10.451  |           |             |              |        |  IEEE Transactions on Neural Networks and learning systems     |
-|    TCSVT   |   1(2)   | 4.685    |           |             |              |        |    IEEE Transactions on Circuits and Systems for Video Technology   |
 |    TMM   |    1(1)    | 6.513   |           |             |              |        |   IEEE Transactions on Multimedia  |
-|    CVIU   | 3(3)    | 3.876    |           |             |              |        |  Computer Vision and Image Understanding  |
 |    PR   |   1(1)   | 7.740   |           |             |              |        |  Pattern Recognition|
+|    TCSVT   |   1(2)   | 4.685    |           |             |              |        |    IEEE Transactions on Circuits and Systems for Video Technology   |
+|    CVIU   | 3(3)    | 3.876    |           |             |              |        |  Computer Vision and Image Understanding  |
 
