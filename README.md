@@ -53,3 +53,7 @@
 |    TCSVT   |   1(2)   | 4.685    |           |             |              |        |    IEEE Transactions on Circuits and Systems for Video Technology   |
 |    CVIU   | 3(3)    | 3.876    |           |             |              |        |  Computer Vision and Image Understanding  |
 
+# 非CCF
+| 期刊简称 | SCI分区  | IF   |一审周期   | 收录周期 |年发文量 | 接受率 |全称 |
+| ----- |----- | --------- |--------- | ----------- |----------- | ------- | ------- |
+|    TII   |   1(1)     | 10.215  |           |             |              |        |  IEEE Transactions on Industrial Informatics   |
