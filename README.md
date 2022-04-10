@@ -32,23 +32,25 @@
 
 
 
-期刊
 
 # CCF A
 | 期刊简称 | SCI分区   |一审周期   | 收录周期 |年发文量 | 接受率 |全称 |
 | ----- |----- | --------- | ----------- |----------- | ------- | ------- |
-|    TIFS   |      |           |             |              |        |       |
-|    TDSC   |      |           |             |              |        |       |
-|    TKDE   |      |           |             |              |        |       |
-|    TIP   |      |           |             |              |        |       |
-|    TDSC   |      |           |             |              |        |       |
-|    TPAMI   |      |           |             |              |        |       |
-|    IJCV   |      |           |             |              |        |       |
-
-
+|    TIFS   |      |           |             |              |        | IEEE Transactions on Information Forensics and Security      |
+|    TDSC   |      |           |             |              |        |     IEEE Transactions on Dependable and Secure Computing  |
+|    TKDE   |      |           |             |              |        | IEEE Transactions on Knowledge and Data Engineering      |
+|    TIP   |      |           |             |              |        |     IEEE Transactions on Image Processing  |
+|    TPAMI   |      |           |             |              |        |  IEEE Trans on Pattern Analysis and Machine Intelligence      |
+|    IJCV   |      |           |             |              |        |   International Journal of Computer Vision    |
 
 
 # CCF B
 | 期刊简称 | SCI分区   |一审周期   | 收录周期 |年发文量 | 接受率 |全称 |
 | ----- |----- | --------- | ----------- |----------- | ------- | ------- |
-|    TOPS   |      |           |             |              |        |       |
+|    TNNLS   |      |           |             |              |        |  IEEE Transactions on Neural Networks and learning systems     |
+|    TCSVT   |      |           |             |              |        |    IEEE Transactions on Circuits and Systems for Video Technology   |
+|    TMM   |      |           |             |              |        |   IEEE Transactions on Multimedia  |
+|    TMM   |      |           |             |              |        |   IEEE Transactions on Multimedia  |
+|    CVIU   |      |           |             |              |        |  Computer Vision and Image Understanding  |
+|    PR   |      |           |             |              |        |  Pattern Recognition|
+
