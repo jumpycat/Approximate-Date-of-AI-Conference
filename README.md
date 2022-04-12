@@ -58,4 +58,4 @@
 | 期刊简称 | SCI分区  | IF   |一审周期   | 收录周期 |年发文量 | 接受率 |全称 |
 | ----- |----- | --------- |--------- | ----------- |----------- | ------- | ------- |
 |    TII   |   1(1)     | 10.215  |           |             |        725      |        |  IEEE Transactions on Industrial Informatics   |
-|   TSMC:S  |     | 13.451  |           |             |              |        | IEEE Transactions on Systems, Man, and Cybernetics: Systems|
+|   TSMC:S  |  1(1)    | 13.451  |           |             |              |        | IEEE Transactions on Systems, Man, and Cybernetics: Systems|
