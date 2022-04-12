@@ -49,9 +49,11 @@
 | ----- |----- | --------- |--------- | ----------- |----------- | ------- | ------- |
 |    TNNLS   |   1(1)     | 10.451  |           |             |      459        |        |  IEEE Transactions on Neural Networks and learning systems     |
 |    TMM   |    1(1)    | 6.513   |           |             |      247        |        |   IEEE Transactions on Multimedia  |
+|    TCYB   |   1(1)   | 11.448    |           |             |              |        |   IEEE Transactions on Cybernetic  |
 |    PR   |   1(1)   | 7.740   |           |             |              |        |  Pattern Recognition|
 |    TCSVT   |   1(2)   | 4.685    |           |             |              |        |    IEEE Transactions on Circuits and Systems for Video Technology   |
 |    CVIU   | 3(3)    | 3.876    |           |             |              |        |  Computer Vision and Image Understanding  |
+
 
 # 非CCF
 | 期刊简称 | SCI分区  | IF   |一审周期   | 收录周期 |年发文量 | 接受率 |全称 |
