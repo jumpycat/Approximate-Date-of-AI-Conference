@@ -51,6 +51,7 @@
 |    TMM   |    1(1)    | 6.513   |           |             |      247        |        |   IEEE Transactions on Multimedia  |
 |    TCYB   |   1(1)   | 11.448    |           |             |              |        |   IEEE Transactions on Cybernetic  |
 |    PR   |   1(1)   | 7.740   |           |             |              |        |  Pattern Recognition|
+|    INS   |   1(1)   |    |           |             |              |        |  Information Sciences	|
 |    TCSVT   |   1(2)   | 4.685    |           |             |              |        |    IEEE Transactions on Circuits and Systems for Video Technology   |
 |    CVIU   | 3(3)    | 3.876    |           |             |              |        |  Computer Vision and Image Understanding  |
 
